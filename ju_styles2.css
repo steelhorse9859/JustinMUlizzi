@@ -132,6 +132,10 @@ body {
 }
 
 #buttonEnter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
   background: #17aa56;
   color: #d6d925;
   font-size: 1.75em;
