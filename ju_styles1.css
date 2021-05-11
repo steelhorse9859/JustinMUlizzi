@@ -100,7 +100,6 @@ nav.horizontalNavigation a {
   font-size: 2em;
   font-family: Baskerville, "Palatino Linotype", Palatino,
     "Century Schoolbook", "Times New Roman", serif;
-  padding-left: none;
 }
 
 nav.horizontalNavigation a:link,
@@ -245,7 +244,6 @@ section#leftColumn p {
 
 #rightColumn {
   float: right;
-  margin-left: none;
   margin-right: 8%;
   width: 35%;
 }
