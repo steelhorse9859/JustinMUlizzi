@@ -10,7 +10,7 @@ body {
   display: grid;
   grid-template-areas:
     'left middle middle middle middle right';
-  grid-column-gap: none;
+  grid-column-gap: normal;
   min-height: 600px;
 }
 
