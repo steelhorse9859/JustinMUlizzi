@@ -123,6 +123,8 @@ body {
 }
 
 #submitButton {
+  margin-left: 30%;
+  margin-right: 20%;
   background: #17aa56;
   color: #fff;
   border-radius: 7px;
@@ -130,10 +132,6 @@ body {
 }
 
 #buttonEnter {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 10%;
   background: #17aa56;
   color: #d6d925;
   font-size: 1.75em;
